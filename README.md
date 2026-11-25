@@ -133,9 +133,3 @@ This repository contains the final report only. Sensitive patient information, r
 *Computer Networks Graduate | Cybersecurity Specialist*
 
 ---
-
-<div align="center">
-
-**NetworkWalks Cybersecurity Internship — Week 4**
-
-</div>
